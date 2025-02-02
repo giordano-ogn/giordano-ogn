@@ -50,7 +50,7 @@
 
 <h3 align="left">My Projects:</h3>
 <ul>
-  <li><a href="https://github.com/giordano/project-1">Project 1</a> - A short description of the project.</li>
+  <li><a href="https://github.com/giordano/project-1">Project 1</a> - A simple and scalable solution for collecting, analyzing, and managing customer feedback. This tool enables businesses to gather insights, track customer sentiment, and make data-driven decisions to enhance user experience and improve products or services..</li>
   <li><a href="https://github.com/giordano/project-2">Project 2</a> - A short description of the project.</li>
   <li><a href="https://github.com/giordano/project-3">Project 3</a> - A short description of the project.</li>
   <!-- Add more projects as necessary -->
